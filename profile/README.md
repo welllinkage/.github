@@ -1,34 +1,24 @@
-# WM0006D Wi-Fi Module
+# Well Linkage Co., Ltd.
 
-The WM0006D is a Wi-Fi module from Well Linkage, built on the
-MediaTek MT7628 platform with a 1T1R wireless architecture.
-It supports wireless connectivity integration into embedded devices.
+Welcome to the Well Linkage GitHub organization.
 
-## Product Highlights
+Explore our Wi-Fi modules and embedded connectivity development resources.
 
-- MediaTek MT7628 platform
-- 1T1R wireless architecture
-- OpenWrt-based firmware development
+## Products
 
-## Specifications
+### WM0006D Wi-Fi Module
 
-| Item | Description |
-|------|-------------|
-| Platform | MediaTek MT7628 |
-| Wireless Architecture | 1T1R |
-| Memory Configuration | Please contact us for available configurations |
-| Dimensions and Interfaces | Please request the product datasheet |
+A MediaTek MT7628-based Wi-Fi module with a 1T1R wireless architecture
+for embedded wireless connectivity.
 
-## Product Information
+[View product information](https://github.com/welllinkage/WM0006D)
 
-Please contact Well Linkage to request:
+## Product Inquiries
 
-- Product datasheet and available configurations
-- Evaluation board information
-- Firmware availability
-- Integration and technical support information
+For datasheets, evaluation board information, firmware availability,
+and integration support, please contact us through our website.
 
-## Contact
+[Visit Well Linkage](https://www.well-linkage.com)
 
 **Well Linkage Co., Ltd.**
 
